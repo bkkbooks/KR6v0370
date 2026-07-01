@@ -1,0 +1,220 @@
+canonical_identifier: bkk:krp/KR6v0370/v1
+canonical_location: https://kanripo.org/bkk/KR6v0370/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 蓮華生大士應化史略
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B11/B11n0071.xml
+    old_id: B11n0071
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0370_000.yaml, hash: 'sha256:5c8f20fdf50dac9f8f06a2c85d49a385b2a0edeb8de84b671b174729f41c2e73'}
+  - {seq: 1, filename: KR6v0370_001.yaml, hash: 'sha256:208eaa3b631ed0b1cb5ca53dca1e025256edddecff4facaca29d83c2467e6d8d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0370_000.markers.yaml, hash: 'sha256:5f389b4e6432c6c04364b3dbf52b54bb2a23507a9c971e341c27e2f01c6d257d'}
+  - {seq: 1, role: markers, filename: assets/KR6v0370_001.markers.yaml, hash: 'sha256:c8268180e123f2eb064400157a8721e112340034c4e5a07e122c0dbc2f90de4d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0370_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 34017
+  label: 蓮華生大師應化史畧
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-1
+    span:
+    - body
+    - 46
+    - 46
+  label: 一、大師本迹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-2
+    span:
+    - body
+    - 411
+    - 411
+  label: 二、大師成就阿彌陀佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-3
+    span:
+    - body
+    - 478
+    - 478
+  label: 三、為度人類示迹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-4
+    span:
+    - body
+    - 966
+    - 966
+  label: 四、普度六趣示迹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-5
+    span:
+    - body
+    - 2535
+    - 2535
+  label: 五、密法出生之濫觴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-6
+    span:
+    - body
+    - 2972
+    - 2972
+  label: 六、馬張噶汝渣之來由
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-7
+    span:
+    - body
+    - 5388
+    - 5388
+  label: 七、調伏馬張噶汝渣之因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-8
+    span:
+    - body
+    - 6189
+    - 6189
+  label: 八、賢劫千佛出世之緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-9
+    span:
+    - body
+    - 6843
+    - 6843
+  label: 九、佛法歷劫住世之程序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-10
+    span:
+    - body
+    - 9061
+    - 9061
+  label: 十、釋迦佛應化世界法教遞變之概况
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-11
+    span:
+    - body
+    - 10112
+    - 10112
+  label: 十一、大師降生西印度之事迹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-12
+    span:
+    - body
+    - 12053
+    - 12053
+  label: 十二、大師為王太子前後之事迹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-13
+    span:
+    - body
+    - 13209
+    - 13209
+  label: 十三、大師度化印度各地之事迹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-14
+    span:
+    - body
+    - 23104
+    - 23104
+  label: 十四、大師西藏應化之事迹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-15
+    span:
+    - body
+    - 31008
+    - 31008
+  label: 十五、大師垂訓示後之概略
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-16
+    span:
+    - body
+    - 33140
+    - 33140
+  label: 發願回向
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-17
+    span:
+    - body
+    - 33500
+    - 33500
+  label: 附誌
+  type: mulu
+  level: 1
+hash: sha256:63066c1db23fe7abf7d37ac4839e06dceb4020b1a5857269c7c53b9d85e4085a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

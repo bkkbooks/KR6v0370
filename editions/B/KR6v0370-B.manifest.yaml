@@ -1,0 +1,218 @@
+canonical_identifier: bkk:krp/KR6v0370/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0370/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 蓮華生大士應化史略
+  identifiers:
+    krp: KR6v0370
+    cbeta: B11n0071
+    cbeta_old_id: B11n0071
+    authorityid: CA0006155
+    json_key: B0071
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B11/B11n0071.xml
+    old_id: B11n0071
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0370_000-B.yaml, hash: 'sha256:57c7a3570d3b6f09dcb08ef921025ce610084d9a9618eb1d7a8db216f88b9f2a'}
+  - {seq: 1, filename: KR6v0370_001-B.yaml, hash: 'sha256:9292d6937c82cf66de102571fa7a1d9b5d0a05c38510399795121796acd4a895'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0370_000-B.markers.yaml, hash: 'sha256:d35499bfef64d311bd1740b27e87ffc23b935373de8adc7e87e977d89cb56d22'}
+  - {seq: 1, role: markers, filename: assets/KR6v0370_001-B.markers.yaml, hash: 'sha256:cccb87907b32f3238ba79531f85fb5cc14a2fd2e1db13b0778cc2321960f0e6f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0370_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 34017
+  label: 蓮華生大師應化史畧
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-1
+    span:
+    - body
+    - 46
+    - 46
+  label: 一、大師本迹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-2
+    span:
+    - body
+    - 411
+    - 411
+  label: 二、大師成就阿彌陀佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-3
+    span:
+    - body
+    - 478
+    - 478
+  label: 三、為度人類示迹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-4
+    span:
+    - body
+    - 966
+    - 966
+  label: 四、普度六趣示迹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-5
+    span:
+    - body
+    - 2535
+    - 2535
+  label: 五、密法出生之濫觴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-6
+    span:
+    - body
+    - 2972
+    - 2972
+  label: 六、馬張噶汝渣之來由
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-7
+    span:
+    - body
+    - 5388
+    - 5388
+  label: 七、調伏馬張噶汝渣之因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-8
+    span:
+    - body
+    - 6189
+    - 6189
+  label: 八、賢劫千佛出世之緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-9
+    span:
+    - body
+    - 6843
+    - 6843
+  label: 九、佛法歷劫住世之程序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-10
+    span:
+    - body
+    - 9061
+    - 9061
+  label: 十、釋迦佛應化世界法教遞變之概况
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-11
+    span:
+    - body
+    - 10112
+    - 10112
+  label: 十一、大師降生西印度之事迹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-12
+    span:
+    - body
+    - 12053
+    - 12053
+  label: 十二、大師為王太子前後之事迹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-13
+    span:
+    - body
+    - 13209
+    - 13209
+  label: 十三、大師度化印度各地之事迹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-14
+    span:
+    - body
+    - 23104
+    - 23104
+  label: 十四、大師西藏應化之事迹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-15
+    span:
+    - body
+    - 31008
+    - 31008
+  label: 十五、大師垂訓示後之概略
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-16
+    span:
+    - body
+    - 33140
+    - 33140
+  label: 發願回向
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0370_B_001-mulu-17
+    span:
+    - body
+    - 33500
+    - 33500
+  label: 附誌
+  type: mulu
+  level: 1
+hash: sha256:74b6933ea89e6429704609ee299bc419d69b6116190493278e5ddb7480250312
