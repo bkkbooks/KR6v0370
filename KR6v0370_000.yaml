@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6v0370/b/v1/juan/0
 seq: 0
-front:
+body:
   text: 蓮華生大師應化史略目次大師本迹大師成就阿彌陀佛為度人類示迹普度六趣示迹密法出生之濫觴馬張噶汝渣之來由調伏馬張噶汝渣之因緣賢劫千佛出世之緣起佛法歷劫住世之程序釋迦佛應化世界法教遞變之概况大師降生西印度之事迹大師為王太子前後之事迹大師度化印度各地之事迹大師西藏應化之事迹大師垂訓示後之概略
   hash: sha256:1e9b57c863ae8e368d1bf748276d0b2dce03b0bd7691c48eed2f29b6d5c2b66f
   markers:
   - {type: 其他, offset: 0, content: 目次, id: KR6v0370_B_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 蓮華生大士應化史略
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/B/B11/B11n0071.xml
     old_id: B11n0071
-hash: sha256:5c8f20fdf50dac9f8f06a2c85d49a385b2a0edeb8de84b671b174729f41c2e73
+hash: sha256:dd0643f7430cfeeca559f7eb25ffc596a3a7d6a7ec2bdd39989a6fbe2b90caea

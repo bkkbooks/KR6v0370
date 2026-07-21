@@ -18,17 +18,17 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0370_000.yaml, hash: 'sha256:5c8f20fdf50dac9f8f06a2c85d49a385b2a0edeb8de84b671b174729f41c2e73'}
+  - {seq: 0, filename: KR6v0370_000.yaml, hash: 'sha256:dd0643f7430cfeeca559f7eb25ffc596a3a7d6a7ec2bdd39989a6fbe2b90caea'}
   - {seq: 1, filename: KR6v0370_001.yaml, hash: 'sha256:25a43830b9c72edadebf9474857e74b8aa4c12c3360168a6338d06ea9e6b2369'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0370_000.markers.yaml, hash: 'sha256:d32b3fd5dca11652613af0ec7e9af458cfd4d26fd670a46e4bc3213edd11ab7f'}
+  - {seq: 0, role: markers, filename: assets/KR6v0370_000.markers.yaml, hash: 'sha256:880c65224ac6234d6ddc38c1d8d3ea57f79aad4ff9943513e971f681e37060a0'}
   - {seq: 1, role: markers, filename: assets/KR6v0370_001.markers.yaml, hash: 'sha256:f0793226f4a3f6c517ffa1d81f68bc9ef33814f505a7c33ab695c01594cf5da2'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0370_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 目次
@@ -214,7 +214,7 @@ table_of_contents:
   label: 附誌
   type: mulu
   level: 1
-hash: sha256:da17bfa6e74a504ae56c77b58df0aaa847b8d24d431030e77a5af2efe68ad9ee
+hash: sha256:6909e5b5dedca2b27f1d1e3fd618456cfcd38d0f58f392b819aaa31e59e4c51b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
